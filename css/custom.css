@@ -1,0 +1,79 @@
+/* Change Brand name Font */
+
+.navbar-brand {
+    font-family: "Ubuntu", sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.fi-color {
+    color: black;
+}
+
+.fi-color:hover {
+    color: black;
+}
+
+
+/* change menu color*/
+
+
+/* for Home Registration... text color*/
+
+.navbar #myMenu .custom-nav .nav-item a {
+    color: #fff;
+}
+
+
+/* for shade during mouse hover */
+
+.navbar #myMenu .custom-nav .nav-item a:hover {
+    color: #000000;
+}
+
+
+/* make header image responsive */
+
+.back-image {
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 90vh;
+    border-radius: 0px;
+    margin-top: 80px;
+    /* for top of image*/
+}
+
+
+/* welcome to service managememt system font styling */
+
+.text-uppercase {
+    font-size: 23px;
+}
+
+
+/* customer's happiness is our aim styling  */
+
+.font-italic {
+    font-size: 20px;
+}
+
+
+/* margin before welcome at top */
+
+.mainHeading {
+    margin-top: 10px;
+}
+
+
+/* media query */
+
+
+/* for mobile view text align to center */
+
+@media only screen and (max-width:600px) {
+    .myclass {
+        margin-top: 275px;
+        text-align: center;
+    }
+}
