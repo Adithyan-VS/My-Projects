@@ -3,11 +3,18 @@
 A web portal that enables users to request services and helps companies assign engineers for those services. It streamlines the service request process, optimizes engineer allocation, and facilitates efficient tracking and communication.
 
 ## Screenshots
-
-<img src="screenshots/home.png" alt="Home Page" width="400">
-![Service Request](screenshots/user-login.png)
-![Engineer Assignment](screenshots/service-request.png)
-![Admin Dashboard](screenshots/admin.png)
+<p align='center'>
+  <img src="screenshots/home.png" alt="Home Page" width="400">
+</p>
+<p align='center'>
+  <img src="screenshots/user-login.png" alt="Login Page" width="400">
+</p>
+<p align='center'>
+  <img src="screenshots/service-request.png" alt="Service Request Page" width="400">
+</p>
+<p align='center'>
+  <img src="screenshots/admin.png" alt="Admin Login Page" width="400">
+</p>
 
 ## Features
 
