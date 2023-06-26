@@ -5,9 +5,9 @@ A web portal that enables users to request services and helps companies assign e
 ## Screenshots
 
 ![Home Page](screenshots/home.png)
-![Service Request](screenshots/service-request.png)
-![Engineer Assignment](screenshots/engineer-assignment.png)
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Service Request](screenshots/user-login.png)
+![Engineer Assignment](screenshots/service-request.png)
+![Admin Dashboard](screenshots/admin.png)
 
 ## Features
 
